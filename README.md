@@ -2,7 +2,6 @@
 <html lang="ja">
 <head>
  <meta charset="UTF-8">
- <title>Hikakin_Mania Union</title>
 </head>
 <body>
  <h1>こんにちは！LineOpenChatのヒカマニ連合管理人グロウン發監督です！</h1>
